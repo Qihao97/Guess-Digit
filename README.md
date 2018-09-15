@@ -1,4 +1,4 @@
-# Hellow-World
+# Guess Digit
 First program in github.
 #!/usr/bin/python3
 #-*-conding:UTF-8-*-
